@@ -1,0 +1,13 @@
+{
+  "name": "tas-hw9a-dates",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Homework 9a, Exercise 3: Playing with dates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment": "^2.31.0"
+  }
+}
